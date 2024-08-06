@@ -13,7 +13,10 @@
 - LinkedIn: [linkedin.com/in/badel-may](https://linkedin.com/in/badel-may)
 
 ## 📊 GitHub Stats
-![Badel's GitHub stats](https://github-readme-stats.vercel.app/api?username=badelmay&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=badelmay&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=badelmay&theme=radical)
+
 
 ## 🔥 Streak Stats
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=badelmay&theme=radical)
