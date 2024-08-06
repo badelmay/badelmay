@@ -1,6 +1,6 @@
 # Hi there! I'm Badel May 👋
 
-I'm a passionate aspiring expert in the field of data science and machine learning. During my university education, I have built a strong foundation in statistics, data mining, and machine learning, and I have the ability to effectively apply this knowledge in hands-on projects. My experience with Python and other data analysis tools makes me an expert candidate with the ability to solve complex data problems and create innovative solutions.
+I am a passionate candidate in the field of data science and machine learning.. During my university education, I have built a strong foundation in statistics, data mining, and machine learning, and I have the ability to effectively apply this knowledge in hands-on projects. My experience with Python and other data analysis tools makes me an expert candidate with the ability to solve complex data problems and create innovative solutions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/badel-may)
 
