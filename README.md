@@ -6,13 +6,19 @@ I'm a passionate professional in the field of data science and machine learning.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/badel-may)
 
 # 🤖 My Projects About Data Science & Machine Learning:
+
 [![Air_Traffic_Time_Series](https://github-readme-stats.vercel.app/api/pin/?username=badelmay&repo=Air_Traffic_Time_Series&bg_color=rgba(255, 255, 255, 0)&title_color=ffffff&icon_color=ffffff&text_color=ffffff)](https://github.com/badelmay/Air_Traffic_Time_Series)
+
 [![customer-segmentation-sales-forecasting](https://github-readme-stats.vercel.app/api/pin/?username=badelmay&repo=customer-segmentation-sales-forecasting&bg_color=rgba(255, 255, 255, 0)&title_color=ffffff&icon_color=ffffff&text_color=ffffff)](https://github.com/badelmay/customer-segmentation-sales-forecasting)
+
 [![lang_chain_llm_model](https://github-readme-stats.vercel.app/api/pin/?username=badelmay&repo=lang_chain_llm_model&bg_color=rgba(255, 255, 255, 0)&title_color=ffffff&icon_color=ffffff&text_color=ffffff)](https://github.com/badelmay/lang_chain_llm_model)
+
 [![bert-project](https://github-readme-stats.vercel.app/api/pin/?username=badelmay&repo=bert-project&bg_color=rgba(255, 255, 255, 0)&title_color=ffffff&icon_color=ffffff&text_color=ffffff)](https://github.com/badelmay/bert-project)
 
 # 🏫 School Projects:
+
 [![Chat](https://github-readme-stats.vercel.app/api/pin/?username=badelmay&repo=Chat&bg_color=rgba(255, 255, 255, 0)&title_color=ffffff&icon_color=ffffff&text_color=ffffff)](https://github.com/badelmay/Chat)
+
 [![rent_a_car](https://github-readme-stats.vercel.app/api/pin/?username=badelmay&repo=rent_a_car&bg_color=rgba(255, 255, 255, 0)&title_color=ffffff&icon_color=ffffff&text_color=ffffff)](https://github.com/badelmay/rent_a_car)
 
 # 📊 GitHub Stats:
