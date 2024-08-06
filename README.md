@@ -7,19 +7,19 @@ I'm a passionate professional in the field of data science and machine learning.
 
 # 🤖 My Projects About Data Science & Machine Learning:
 
-[![Air_Traffic_Time_Series](https://github-readme-stats.vercel.app/api/pin/?username=badelmay&repo=Air_Traffic_Time_Series&bg_color=rgba(255, 255, 255, 0)&title_color=ffffff&icon_color=ffffff&text_color=ffffff)](https://github.com/badelmay/Air_Traffic_Time_Series)
+[![Air Traffic Time Series](https://img.shields.io/badge/Air%20Traffic%20Time%20Series-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/badelmay/Air_Traffic_Time_Series)
 
-[![customer-segmentation-sales-forecasting](https://github-readme-stats.vercel.app/api/pin/?username=badelmay&repo=customer-segmentation-sales-forecasting&bg_color=rgba(255, 255, 255, 0)&title_color=ffffff&icon_color=ffffff&text_color=ffffff)](https://github.com/badelmay/customer-segmentation-sales-forecasting)
+[![Customer Segmentation Sales Forecasting](https://img.shields.io/badge/Customer%20Segmentation%20Sales%20Forecasting-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/badelmay/customer-segmentation-sales-forecasting)
 
-[![lang_chain_llm_model](https://github-readme-stats.vercel.app/api/pin/?username=badelmay&repo=lang_chain_llm_model&bg_color=rgba(255, 255, 255, 0)&title_color=ffffff&icon_color=ffffff&text_color=ffffff)](https://github.com/badelmay/lang_chain_llm_model)
+[![Lang Chain LLM Model](https://img.shields.io/badge/Lang%20Chain%20LLM%20Model-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/badelmay/lang_chain_llm_model)
 
-[![bert-project](https://github-readme-stats.vercel.app/api/pin/?username=badelmay&repo=bert-project&bg_color=rgba(255, 255, 255, 0)&title_color=ffffff&icon_color=ffffff&text_color=ffffff)](https://github.com/badelmay/bert-project)
+[![BERT Project](https://img.shields.io/badge/BERT%20Project-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/badelmay/bert-project)
 
 # 🏫 School Projects:
 
-[![Chat](https://github-readme-stats.vercel.app/api/pin/?username=badelmay&repo=Chat&bg_color=rgba(255, 255, 255, 0)&title_color=ffffff&icon_color=ffffff&text_color=ffffff)](https://github.com/badelmay/Chat)
+[![Chat](https://img.shields.io/badge/Chat-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/badelmay/Chat)
 
-[![rent_a_car](https://github-readme-stats.vercel.app/api/pin/?username=badelmay&repo=rent_a_car&bg_color=rgba(255, 255, 255, 0)&title_color=ffffff&icon_color=ffffff&text_color=ffffff)](https://github.com/badelmay/rent_a_car)
+[![Rent a Car](https://img.shields.io/badge/Rent%20a%20Car-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/badelmay/rent_a_car)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=badelmay&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br>
