@@ -1,6 +1,5 @@
 # Hi there! I'm Badel May 👋
 
-# 📋 Summary
 I'm a passionate professional in the field of data science and machine learning. During my university studies, I have built a strong foundation in statistics, data mining and machine learning and have the ability to effectively apply this knowledge in applied projects. I have experience with Python and other data analysis tools, making me a professional with the ability to solve complex data problems and create innovative solutions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/badel-may)
