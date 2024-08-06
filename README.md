@@ -10,7 +10,7 @@ I'm a passionate professional in the field of data science and machine learning.
 
 [![Customer Segmentation Sales Forecasting](https://img.shields.io/badge/Customer%20Segmentation%20Sales%20Forecasting-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/badelmay/customer-segmentation-sales-forecasting)
 
-[![Document Processing and QA Project](https://img.shields.io/badge/Lang%20Chain%20LLM%20Model-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/badelmay/lang_chain_llm_model)
+[![Document Processing and QA Project](https://img.shields.io/badge/Document%20Processing%20and%20QA%20Project-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/badelmay/Document-Processing-and-QA-Project)
 
 [![BERT Project](https://img.shields.io/badge/BERT%20Project-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/badelmay/bert-project)
 
