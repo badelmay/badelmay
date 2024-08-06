@@ -1,7 +1,5 @@
 # Hi there! I'm Badel May 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3500&pause=600&color=37FD12&width=780&height=80&lines=Greetings%2C+fellow+code+wrangler!+;May+your+syntax+always+be+error-free%2C;and+your+bugs+be+extinct.;Happy+coding+%3AD)](https://git.io/typing-svg)
-
 # 📋 Summary
 I'm a motivated data scientist with over 1 year of experience in developing machine learning models. Skilled in Python, with expertise in using social research methods to extract valuable insights from data. Committed to ongoing learning and staying current with advancements in data science. Passionate about uncovering patterns and creating data-driven solutions.
 
